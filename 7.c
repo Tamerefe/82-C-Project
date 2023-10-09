@@ -2,16 +2,22 @@
 
 int main() {
 
-    int road, hour,circumference = 0;
+    float road, hour, min, ttl,ndd;
 
     printf("Write the kilometer of the going road: ");
-    scanf("%d", &road);
+    scanf("%f", &road);
 
-    printf("Write the how many hour of the going road: ");
-    scanf("%d", &hour);
+    printf("How many hour of the going road: ");
+    scanf("%f", &hour);
 
-    printf("Area of circle: %.2f \n",area);
-    printf("Circumference of the circle: %.2f",circumference);
+    printf("How many minute of the going road: ");
+    scanf("%f", &min);
+
+    ttl = hour + (min/60);
+
+    ndd = road/ttl;
+
+    printf("The speed required to exist within this time : %.2f km/h \n",ndd);
 
     return 0;
 }
