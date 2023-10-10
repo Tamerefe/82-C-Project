@@ -16,7 +16,7 @@
 
 9- A program that finds whether an entered number is odd or even.
 
-10- A program that asks the user to enter two numbers and compares the magnitude of the numbers.
+10- A program that asks the user to enter 3 numbers and compares the magnitude of the numbers.
 
 11- Program to find the distance between two points whose coordinates are given.
 

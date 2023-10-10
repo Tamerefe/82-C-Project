@@ -2,14 +2,14 @@
 
 int main() {
 
-   int val,val2,val3;
+    int val,val2,val3;
 
-   printf("Please Write a your first value: ");
-   scanf("%d",&val);
-   printf("Please Write a your second value: ");
-   scanf("%d",&val2);
-   printf("Please Write a your third value: ");
-   scanf("%d",&val3);
+    printf("Please Write a your first value: ");
+    scanf("%d",&val);
+    printf("Please Write a your second value: ");
+    scanf("%d",&val2);
+    printf("Please Write a your third value: ");
+    scanf("%d",&val3);
 
 
     if(val > val2){
@@ -25,6 +25,6 @@ int main() {
             printf("Third Value Bigger Than Other Values");
         }
     }
-    
+
     return 0;
 }

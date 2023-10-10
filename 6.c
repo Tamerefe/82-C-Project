@@ -4,9 +4,8 @@ int main() {
 
     printf("Write the radius of the circle: ");
 
-    float radius;
-    float area = 0;
-    float circumference = 0;
+    double radius;
+    float area = 0, circumference = 0;
     float pi = 3.141593;
 
     scanf("%f", &radius);
