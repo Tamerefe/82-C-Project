@@ -30,17 +30,17 @@
 
 16- Program that names the day corresponding to the day number of the week.
 
-17- A program that writes the life span corresponding to an entered age on the screen.
+17- A program that calculates the current date and time
 
-18- Program that can perform simple four operations and modular arithmetic operations.
+18- A program that writes the life span corresponding to an entered age on the screen.
 
-19- Program that can perform simple four operations and modular arithmetic operations. (with SWITCH)
+19- Program that can perform simple four operations and modular arithmetic operations.
 
 20- A program that finds the type of triangle based on the three entered sides of a triangle.
 
 21- A program that asks the user about their marital status, how many children they have if married, and gives the necessary message.
 
-22- A program that finds out whether an entered number is a PRIMARY Number.
+22- A program that finds out whether an entered number is a Prime Number.
 
 23- Program that counts forward from 1 to 25 and backwards from 25 to 1.
 
@@ -121,5 +121,46 @@
 61- A program that calculates whether a number entered by the user is prime or not by using a function.
 
 62- Multiplication table of an entered number using a function
+
+63- A program that calculates the factorial of an entered number with the help of a function.
+
+64- A program that calculates the area and perimeter of a circle whose radius is given using a function.
+
+65- A program that converts the first letters of all words in an entered text to uppercase.
+
+66- A program that asks a person's name, age, car model and price according to their structure and prints them on the screen.
+
+67- Program that gives the sum of two time periods entered by the user.
+
+68- A program that asks the user for information about 3 athletes and lists them in a straight order.
+
+69- A program that asks the name, author, price, subject, page and publishing house of the book as many times as the user enters, and allows sorting and searching through a menu after the information is entered.
+
+70- A program that prints the digits of an entered number on the screen by lettering them in order.
+
+71- A program that returns the value and address of an entered number using a pointer.
+
+72- Program that gives the sum and difference of two numbers using pointer.
+
+73- Program to find the roots of a quadratic equation with one unknown.
+
+74- Program to find the square of the numbers from 1 to 7 and the sum of the squares.
+
+75- A program that finds the amount of available memory while running on the DOS operating system.
+
+76- A program that reads the value of a variable from its address in memory using a pointer and prints it on the screen.
+
+77- An example program for using General Functions, sorting and finding the average..
+
+78- A program that sorts the numbers entered by the user using the "Bubble Sort" sorting algorithm.
+
+79- A program that sorts the numbers entered by the user using the "Selection Sort" sorting algorithm.
+
+80- A program that sorts the numbers entered by the user using the "Shell Sort" sorting algorithm.
+
+81- Program that prints Pascal's Triangle with a maximum of 100 digits on the screen.
+
+82- Program to find pi number with 0.0001 error
+
 
 http://www.ckutuphanesi.com/tum-ornek-projeler/
