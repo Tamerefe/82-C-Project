@@ -46,19 +46,19 @@
 
 24- A program that prints all natural numbers from 1 to 50, odd and even numbers separately.
 
-25- Program that prints the multiplication table for an entered number.
+25- Program that calculates the factorial of an entered number.
 
-26- Program that calculates the factorial of an entered number.
+26- Program that lists the prime numbers between two entered numbers.
 
-27- A program that calculates the power of an entered number. (Normal and with pow())
+27- A program that asks the user to enter a number and prints the entered number on the screen until the user enters a negative number.
 
-28- Program that lists the prime numbers between two entered numbers.
+28- A program that calculates the power of an entered number.
 
 29- Program that creates a pyramid with the * character.
 
-30- Program that creates a number pyramid.
+30- Program that creates a Pascal's Triangle.
 
-31- A program that asks the user to enter a number and prints the entered number on the screen until the user enters a negative number.
+31- Program that prints the multiplication table for an entered number.
 
 32- Write a program that functions as a simple calculator that can be run again as long as the user wants?
 
