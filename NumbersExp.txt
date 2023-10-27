@@ -64,27 +64,27 @@
 
 33- A program that finds the sum of the digits in an entered number.
 
-34- A program that finds out whether an entered number is a "perfect number" or not.
+34- A Program that prints the entered number in reverse.
 
 35- If an entered number is a prime number, the program lists the next 10 prime numbers.
 
 36- A program that asks the scores of a number of students given by the user and finds the sum and average of these scores.
 
-37- Program to find the largest and smallest numbers among 10 entered numbers.
+37- A program that sorts and lists the numbers entered by the user from smallest to largest and average.
 
-38- A program that sorts and lists the 5 numbers entered by the user from smallest to largest.
+38- A program that number guessing game.
 
-39- Program that lists the even, odd and prime numbers of 10 numbers separately.
+39- A program that finds the average height and weight of students by asking their height and weight.
 
 40- A program that finds a searched number among the numbers given in a series.
 
-41- A program that finds the average height and weight of 5 students by asking their height and weight.
+41- Program that lists the even, odd and prime numbers of 10 numbers separately.
 
-42- A program that sorts the 5 numbers entered by the user in the order desired by the user and lists them on the screen.
+42- A Program to Convert Number to Binary (Base 2)
 
 43- A program that finds the range of the entered number using the binary search method.
 
-44- A program that asks the user for the values of a 3*3 matrix and prints the matrix on the screen.
+44- A program that sorts the 5 numbers entered by the user in the order desired by the user and lists them on the screen.
 
 45- A program that asks the user for the values of a 3*3 matrix and prints the matrix on the screen.
 
