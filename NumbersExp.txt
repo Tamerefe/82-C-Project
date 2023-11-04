@@ -82,9 +82,9 @@
 
 42- A Program to Convert Number to Binary (Base 2)
 
-43- A program that finds the range of the entered number using the binary search method.
+43- A Prgoram to calculate the 30 students 5 courses GPA
 
-44- A program that sorts the 5 numbers entered by the user in the order desired by the user and lists them on the screen.
+44- A program that simple math operations as a function
 
 45- A program that asks the user for the values of a 3*3 matrix and prints the matrix on the screen.
 

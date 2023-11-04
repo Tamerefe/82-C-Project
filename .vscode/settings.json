@@ -3,6 +3,7 @@
         "*.ejs": "html",
         "16.C": "cpp",
         "typeinfo": "cpp",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "math.h": "c"
     }
 }
