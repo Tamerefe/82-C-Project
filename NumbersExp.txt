@@ -96,7 +96,7 @@
 
 49- A program that requests a word up to 10 characters and prints it on the screen.
 
-50- A program that finds which of the two entered words is longer.
+50- A program that converts a text entered by the user into uppercase letters.
 
 51- Program that displays the full name by combining the first and last name information entered separately.
 
@@ -110,7 +110,7 @@
 
 56- A program that sorts the letters of an entered text in alphabetical order.
 
-57- A program that converts a text entered by the user into uppercase letters.
+57- 
 
 58- A program that converts all initial letters of words in a text entered by the user to uppercase letters.
 
