@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <math.h>
 
 int main() {
 
@@ -11,8 +10,8 @@ int main() {
     scanf("%d",&leapyrl);
 
     if(leapyrl % 4 == 0){
-        if((leapyrl % 400 == 0) || (leapyrl % 100 == 0)){
-            if(leapyrl == 1900){
+        if(leapyrl % 100 == 0){
+            if(leapyrl % 400 == 0){
                 printf("The year %d is a leap year",leapyrl);
             }else{
                 printf("The year %d isn't a leap year",leapyrl);

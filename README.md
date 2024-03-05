@@ -6,7 +6,7 @@
 
 4. A program that calculates the area and perimeter of a square whose side is entered.
 
-5. Program to find the square and perimeter of a rectangle whose two sides are entered.
+5. Program to find the area and perimeter of a rectangle whose two sides are entered.
 
 6. Program to find the area and perimeter of a circle whose radius is entered.
 
@@ -106,11 +106,11 @@
 
 54. A program that finds how many characters the user wants in the entered sentence.
 
-55. A program that returns the reverse of a text entered by the user.
+55. A program that find the length of an integer
 
 56. A program that sorts the letters of an entered text in alphabetical order.
 
-57. 
+57. A program that returns the reverse of a text entered by the user. 
 
 58. A program that converts all initial letters of words in a text entered by the user to uppercase letters.
 
@@ -120,7 +120,7 @@
 
 61. A program that calculates whether a number entered by the user is prime or not by using a function.
 
-62. Multiplication table of an entered number using a function
+62. A program that puts a dot after every 3 digits  
 
 63. A program that calculates the factorial of an entered number with the help of a function.
 
@@ -161,6 +161,8 @@
 81. Program that prints Pascal's Triangle with a maximum of 100 digits on the screen.
 
 82. Program to find pi number with 0.0001 error
+
+83. Multiplication table of an entered number using a function
 
 
 http://www.ckutuphanesi.com/tum.ornek.projeler/

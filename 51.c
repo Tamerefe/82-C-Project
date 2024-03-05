@@ -17,6 +17,8 @@ int main(){
     }
 
     i = 0;
+    add[j] = ' ';
+    j++;
 
     while (surname[i] != '\0') {
         add[j] = surname[i];
