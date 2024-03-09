@@ -118,7 +118,7 @@
 
 60. A program that takes the names and ages of students from the user and sorts them from youngest to oldest.
 
-61. A program that calculates whether a number entered by the user is prime or not by using a function.
+61. Multiplication table of an entered number using a function
 
 62. A program that puts a dot after every 3 digits  
 
@@ -161,8 +161,5 @@
 81. Program that prints Pascal's Triangle with a maximum of 100 digits on the screen.
 
 82. Program to find pi number with 0.0001 error
-
-83. Multiplication table of an entered number using a function
-
 
 http://www.ckutuphanesi.com/tum.ornek.projeler/
