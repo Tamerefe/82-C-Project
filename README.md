@@ -58,7 +58,7 @@
 
 30. Program that creates a Pascal's Triangle.
 
-31. Program that prints the multiplication table for an entered number.
+31. Program that prints the multiplication table.
 
 32. Write a program that functions as a simple calculator that can be run again as long as the user wants?
 
