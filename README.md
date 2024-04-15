@@ -146,9 +146,9 @@
 
 74. Program to find the square of the numbers from 1 to 7 and the sum of the squares.
 
-75. A program that finds the amount of available memory while running on the DOS operating system.
+75. // A program that finds the amount of available memory while running on the DOS operating system.
 
-76. A program that reads the value of a variable from its address in memory using a pointer and prints it on the screen.
+76. A program that reads the value of a 5 random variable from its address in memory using a pointer and prints it on the screen.
 
 77. An example program for using General Functions, sorting and finding the average..
 
