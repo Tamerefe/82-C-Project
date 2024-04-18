@@ -146,15 +146,15 @@
 
 74. Program to find the square of the numbers from 1 to 7 and the sum of the squares.
 
-75. // A program that finds the amount of available memory while running on the DOS operating system.
+75. Program that sorts and lists 5 numbers entered by the user, from smallest to largest, with the help of pointer
 
 76. A program that reads the value of a 5 random variable from its address in memory using a pointer and prints it on the screen.
 
-77. An example program for using General Functions, sorting and finding the average..
+77. An example program for using General Functions, sorting and finding the average
 
-78. A program that sorts the numbers entered by the user using the "Bubble Sort" sorting algorithm.
+78. A program that factorial calculation with recursive function
 
-79. A program that sorts the numbers entered by the user using the "Selection Sort" sorting algorithm.
+79. A program that checks whether a number is positive, negative or unsigned by defining a pointer in function.
 
 80. A program that sorts the numbers entered by the user using the "Shell Sort" sorting algorithm.
 
