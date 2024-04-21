@@ -156,9 +156,9 @@
 
 79. A program that checks whether a number is positive, negative or unsigned by defining a pointer in function.
 
-80. A program that sorts the numbers entered by the user using the "Shell Sort" sorting algorithm.
+80. A program writing the current date and local time to the screen
 
-81. Program that prints Pascal's Triangle with a maximum of 100 digits on the screen.
+81. A program finding a palindrome number
 
 82. Program to find pi number with 0.0001 error
 
